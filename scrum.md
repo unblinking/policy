@@ -16,9 +16,11 @@ Projects are managed using [Waffle.io](https://waffle.io) with [GitHub](https://
 
 ## Workflow  
 
-Product owner creates the product backlog by creating [GitHub issues](https://help.github.com/articles/about-issues/).  
+#### Product backlog items  
 
-Product owner prioritizes the issues. Priorities include:  
+Product owner creates the __product backlog items__ by creating [GitHub issues](https://help.github.com/articles/about-issues/).  
+
+Team conducts the __backlog refinement meeting__ and prioritizes the issues by applying labels. Priorities include:
 
 Priority|Description
 ---|---
@@ -28,9 +30,26 @@ DEFCON3|Increased priority. A solution to this is requested, and please hurry th
 DEFCON4|Normal priority. A solution to this is requested, but no hurry.
 DEFCON5|Lowest priority. A solution to this would be nice someday.
 
-Team conducts sprint planning, choosing issues and assigning them to team members.  
+#### Sprint planning  
+
+Team conducts the __sprint planning meeting__, choosing issues to be addressed during the sprint and [assigning them to team members](https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/).  
+
+Issues chosen for the sprint are given estimated __story points__ using the [Waffle.io card size](https://github.com/waffleio/waffle.io/wiki/FAQs#planning-and-estimation-1).  
+
+Branches are created for each issue, including the issue number in the branch name.  
+
+#### Sprints  
 
 Sprints are one month by default.  
+__Daily scrum__ updates are documented as comments to the issues.  
+
+#### Sprint review and retrospective
+
+At the end of the sprint, pull requests are issued for each branch using the [special keyword syntax](https://github.com/blog/1506-closing-issues-via-pull-requests) to close the related issue once the pull request has been successfully merged.  
+
+Results of the sprint are reviewed by the team and documented as comments to the issues or pull requests.  
+
+Pull requests are merged if ready.  
 
 ## Meeet the team  
 
