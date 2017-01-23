@@ -2,17 +2,17 @@
 
 __Nothing Works Right__ uses the Scrum framework for developing and sustaining complex products.  
 
+[Agile manifesto](https://www.agilealliance.org/agile101/the-agile-manifesto/)  
+[ScrumGuides.org](http://scrumguides.org)  
+
 ---  
 
-## Scrum guides  
+## Waffle.io with GitHub  
 
-Detailed information and guides for the Scrum framework are available at [ScrumGuides.org](http://scrumguides.org).  
+Projects are managed using [Waffle.io](https://waffle.io) with GitHub, a free project management solution powered by real time GitHub issues and pull requests. Status updates are automatic.  
 
-## Waffle.io  
-
-Projects are managed using [Waffle.io](https://waffle.io), a free project management solution powered by real time GitHub issues and pull requests. Status updates are automatic.  
-
-[waffle.io/nothingworksright](https://waffle.io/nothingworksright?tab=projects)  
+[Nothing works right projects on Waffle.io](https://waffle.io/nothingworksright?tab=projects)  
+[Waffle.io recommended workflow](https://github.com/waffleio/waffle.io/wiki/Recommended-Workflow-Using-Pull-Requests-&-Automatic-Work-Tracking)  
 
 ## Meeet the team  
 
