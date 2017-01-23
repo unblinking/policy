@@ -36,11 +36,12 @@ Team conducts the __sprint planning meeting__, choosing issues to be addressed d
 
 Issues chosen for the sprint are given estimated __story points__ using the [Waffle.io card size](https://github.com/waffleio/waffle.io/wiki/FAQs#planning-and-estimation-1).  
 
-Branches are created for each issue, including the issue number in the branch name.  
+[Branches are created](https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/) for each issue, including the issue number in the branch name (e.g. `docs-#4`).  
 
 #### Sprints  
 
 Sprints are one month by default.  
+
 __Daily scrum__ updates are documented as comments to the issues.  
 
 #### Sprint review and retrospective
