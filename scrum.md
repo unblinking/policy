@@ -10,7 +10,9 @@ Detailed information and guides for the Scrum framework are available at [ScrumG
 
 ## Waffle.io  
 
-Projects are managed using [Waffle.io](https://waffle.io/nothingworksright), a free project management solution powered by real time GitHub issues and pull requests. Status updates are automatic.  
+Projects are managed using [Waffle.io](https://waffle.io), a free project management solution powered by real time GitHub issues and pull requests. Status updates are automatic.  
+
+[waffle.io/nothingworksright](https://waffle.io/nothingworksright?tab=projects)  
 
 ## Meeet the team  
 
