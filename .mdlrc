@@ -1,0 +1,1 @@
+exclude_rule 'MD009', 'MD013'
