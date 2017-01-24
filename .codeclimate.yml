@@ -1,6 +1,7 @@
 engines:
   markdownlint:
     enabled: true
+    config: .markdownlint.json
 ratings:
   paths:
   - "**.md"
