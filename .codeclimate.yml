@@ -1,7 +1,11 @@
 engines:
   markdownlint:
     enabled: true
-    config: .markdownlint.json
+    checks:
+      MD009:
+        enabled: false
+      MD013:
+        enabled: false
 ratings:
   paths:
   - "**.md"
