@@ -16,11 +16,11 @@ Projects are managed using [Waffle.io](https://waffle.io) with [GitHub](https://
 
 ## Workflow  
 
-### Product backlog items  
+### Product Backlog Items (PBI)  
 
 Product owner creates the __product backlog items__ by creating [GitHub issues](https://help.github.com/articles/about-issues/).  
 
-Team conducts the __backlog refinement meeting__ and prioritizes the issues by applying labels. Priorities include:
+Team conducts the __backlog refinement meeting__ and prioritizes the issues. Priorities and other attributes are set by applying labels to the issues. Priorities include:
 
 Priority|Description
 ---|---
@@ -30,9 +30,9 @@ DEFCON3|Increased priority. A solution to this is requested, and please hurry th
 DEFCON4|Normal priority. A solution to this is requested, but no hurry.
 DEFCON5|Lowest priority. A solution to this would be nice someday.
 
-### Sprint planning  
+### Sprint Planning  
 
-Team conducts the __sprint planning meeting__, choosing issues to be addressed during the sprint and [assigning them to team members](https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/).  
+Team conducts the __sprint planning meeting__, choosing issues to be worked during the sprint and [assigning them to team members](https://help.github.com/articles/assigning-issues-and-pull-requests-to-other-github-users/).  
 
 Issues chosen for the sprint are given estimated __story points__ using the [Waffle.io card size](https://github.com/waffleio/waffle.io/wiki/FAQs#planning-and-estimation-1).  
 
@@ -40,11 +40,11 @@ Issues chosen for the sprint are given estimated __story points__ using the [Waf
 
 ### Sprints  
 
-Sprints are one month by default.  
+Sprints are one month.  
 
-__Daily scrum__ updates are documented as comments to the issues.  
+__Daily scrum__ meetings (stand-ups) happen at the start of each day, and all updates are documented as comments to the issues.  
 
-### Sprint review and retrospective
+### Sprint Review and Retrospective
 
 At the end of the sprint, pull requests are issued for each branch using the [special keyword syntax](https://github.com/blog/1506-closing-issues-via-pull-requests) to close the related issue once the pull request has been successfully merged.  
 
@@ -52,7 +52,7 @@ Results of the sprint are reviewed by the team and documented as comments to the
 
 Pull requests are merged if ready.  
 
-## Meeet the team  
+## Meeet the Team  
 
 __Product Owner__ : [Joshua (@jmg1138)](https://github.com/jmg1138)  
 __Scrum Master__ : [Joshua (@jmg1138)](https://github.com/jmg1138)  
