@@ -1,12 +1,6 @@
 engines:
   markdownlint:
     enabled: true
-    checks:
-      MD009:
-        enabled: true
-        br_spaces: 2
-      MD013:
-        enabled: false
 ratings:
   paths:
   - "**.md"
