@@ -9,3 +9,8 @@ This is a collection of random policies and procedures for the Nothing Works Rig
 ## Current list of policies and procedures  
 
 - [Scrum project management](scrum.md)  
+
+## Style guides  
+
+- [JSON](json.md)  
+
