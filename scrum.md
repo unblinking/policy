@@ -11,7 +11,7 @@ __Nothing Works Right__ subscribes to [Agile software development](https://www.a
 
 Projects are managed using [Waffle.io](https://waffle.io) with [GitHub](https://github.com), a free project management solution powered by real time [GitHub issues](https://help.github.com/articles/about-issues/) and [pull requests](https://help.github.com/articles/about-pull-requests/). Status updates are automatic.  
 
-[Take a look at the @nothingworksright projects on Waffle.io](https://waffle.io/nothingworksright?tab=projects)  
+[Take a look at the nothingworksright projects on Waffle.io](https://waffle.io/nothingworksright?tab=projects)  
 [Read the Waffle.io recommended workflow using pull requests and automatic work tracking](https://github.com/waffleio/waffle.io/wiki/Recommended-Workflow-Using-Pull-Requests-&-Automatic-Work-Tracking)  
 
 ## Workflow  
