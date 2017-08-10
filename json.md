@@ -5,6 +5,7 @@
 As a basic guide, use JSend. [JSend](http://labs.omniti.com/labs/jsend) is a specification that lays down some rules for how JSON responses from web servers should be formatted.  
 
 Example response sent from Nodejs:  
+
 ```Node
 {
     status: "success",
@@ -16,6 +17,7 @@ Example response sent from Nodejs:
 ```
 
 Example response received by Postman:  
+
 ```JSON
 {
   "status": "error",
