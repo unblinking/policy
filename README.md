@@ -6,6 +6,7 @@ This is a collection of random policies and procedures for @nothingworksright an
 
 ## Current list of policies and procedures  
 
+- [Code review](code_review.md)  
 - [Git version control](git.md)  
 - [Scrum project management](scrum.md)  
 
