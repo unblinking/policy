@@ -12,5 +12,6 @@ This is a collection of random policies and procedures for @nothingworksright an
 
 ## Style guides  
 
+- [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601)
 - [JSON](json.md)  
 - [Space Shuttle Style](space_shuttle_style.md)  
