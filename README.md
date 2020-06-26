@@ -8,6 +8,7 @@ This is a collection of random policies and procedures for @nothingworksright an
 
 - [Code review](code_review.md)  
 - [Git version control](git.md)  
+- [Git commits](commit.md)
 - [Scrum project management](scrum.md)  
 
 ## Style guides  
